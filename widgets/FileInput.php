@@ -1,4 +1,13 @@
 <?php
+
+/**
+ * Aria S.p.A.
+ * OPEN 2.0
+ *
+ *
+ * @package    Open20Package
+ * @category   CategoryName
+ */
 namespace pendalf89\filemanager\widgets;
 
 use Yii;
@@ -38,6 +47,7 @@ use yii\helpers\Url;
  * More samples of usage see on github: https://github.com/PendalF89/yii2-filemanager
  *
  * @package pendalf89\filemanager\widgets
+ * @author Zabolotskikh Boris <zabolotskich@bk.ru>
  */
 class FileInput extends InputWidget
 {

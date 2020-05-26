@@ -1,4 +1,13 @@
 <?php
+
+/**
+ * Aria S.p.A.
+ * OPEN 2.0
+ *
+ *
+ * @package    Open20Package
+ * @category   CategoryName
+ */
 namespace pendalf89\filemanager\widgets;
 
 use Yii;
@@ -25,6 +34,7 @@ class TinyMce extends InputWidget
     /**
      * @var array the options for the TinyMCE JS plugin.
      * Please refer to the TinyMCE JS plugin Web page for possible options.
+     * @see http://www.tinymce.com/wiki.php/Configuration
      */
     public $clientOptions = [];
 

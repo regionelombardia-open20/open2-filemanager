@@ -1,8 +1,8 @@
 {
-    "name": "lispa/yii2-filemanager",
+    "name": "open20/yii2-filemanager",
     "description": "Yii2 filemanager",
     "type": "yii2-extension",
-    "proscription": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "PendalF",
@@ -14,7 +14,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-imagine": "*",
-        "lispa/yii2-tinymce" : "*",
+        "open20/yii2-tinymce": "*",
         "kartik-v/yii2-widget-alert": "*",
         "kartik-v/yii2-widget-select2": "*",
         "2amigos/yii2-file-upload-widget": "*"

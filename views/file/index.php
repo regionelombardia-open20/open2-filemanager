@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Aria S.p.A.
+ * OPEN 2.0
+ *
+ *
+ * @package    Open20Package
+ * @category   CategoryName
+ */
+
 use pendalf89\filemanager\Module;
 use pendalf89\filemanager\assets\ModalAsset;
 use yii\helpers\Url;
